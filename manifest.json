@@ -1,0 +1,15 @@
+{
+  "originalUrl": "https://sidequest.rcade.game/",
+  "title": "Side Quests",
+  "archiveTime": "2024-05-29T08:37:06.746Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0.ttf": "https://sidequest.rcade.game/static/media/Rajdhani-Regular.148606c1eb703f6e597a.ttf",
+    "fonts/1.ttf": "https://sidequest.rcade.game/static/media/Rajdhani-Bold.a5a831c1b8c8eb1b83ff.ttf",
+    "images/2.svg": "https://sidequest.rcade.game/static/media/rg-logo.7da95134e6d8c737ec51.svg",
+    "images/5.ico": "https://sidequest.rcade.game/favicon.ico",
+    "images/6.svg": "https://sidequest.rcade.game/static/media/rg-logo.7da95134e6d8c737ec51247e0c1e4b9f.svg",
+    "images/3.png": "https://sidequest.rcade.game/static/media/titleLeft.11f3fd90d213617deba8.png",
+    "images/4.png": "https://sidequest.rcade.game/static/media/titleRight.a814da4f84d621e232de.png"
+  }
+}
